@@ -3,6 +3,7 @@
     "-v",
     "-s",
     "./001_fizzbuzz",
+    "./002_reverse_string",
     "-p",
     "*test.py"
   ],
